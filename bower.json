@@ -1,5 +1,5 @@
 {
-  "name": "parsing-extras",
+  "name": "purescript-parsing-extras",
   "ignore": [
     "**/.*",
     "node_modules",
